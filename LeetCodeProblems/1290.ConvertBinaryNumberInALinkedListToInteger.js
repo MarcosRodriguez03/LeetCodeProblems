@@ -10,3 +10,5 @@ var getDecimalValue = function (head) {
   }
   return total;
 };
+
+// bad time complexity redo it 
